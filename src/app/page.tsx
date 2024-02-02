@@ -221,6 +221,57 @@ export default function Home() {
                   como habilidade com planilhas
                 </ListItem>
               </List>
+
+              <SectionJob
+                job="Advogada Associada - Urbano Vitalino Advogados"
+                place="João Pessoa, Paraíba"
+                period="06/2014 - 03/2016"
+              />
+
+              <List>
+                <ListItem>
+                  Acompanhamento de audiências e diligências; elaboração de peças processuais.
+                </ListItem>
+                <ListItem>
+                  Área: Processo Civil, Direito do Consumidor e Trabalhista.
+                </ListItem>
+              </List>
+
+              <SectionJob
+                job="Estagiário - Lima e Falcão Advogados"
+                place="João Pessoa, Paraíba"
+                period="04/2012 - 05/2013"
+              />
+
+              <List>
+                <ListItem>
+                  Acompanhamento de audiências e diligências
+                </ListItem>
+                <ListItem>
+                  Área: Processo Civil e Direito do Consumidor.
+                </ListItem>
+              </List>
+
+              <SectionJob
+                job="Estagiário - Rocha Marinho e Sales Advogados"
+                place="João Pessoa, Paraíba"
+                period="03/2010  - 03/2012"
+              />
+
+              <List>
+                <ListItem>
+                  Atualização de processos E-JUS/PB, VARA CÍVEL
+                </ListItem>
+                <ListItem>
+                  Atualização de dados em Sistema Jurídico
+                </ListItem>
+                <ListItem>
+                  Acompanhamento de audiências
+                </ListItem>
+                <ListItem>
+                  Área: Processo Civil e Direito do Consumidor.
+                </ListItem>
+              </List>
             </SectionContent>
           </Section>
 
