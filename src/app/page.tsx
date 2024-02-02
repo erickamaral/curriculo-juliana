@@ -9,15 +9,7 @@ export default function Home() {
   return (
     <main className="min-h-[100svh] flex flex-col">
       <div className="flex flex-1 mx-auto w-full max-w-7xl">
-        <aside className="w-72 bg-purple-900 text-white flex flex-col gap-8 pb-16 text-sm">
-          <Image
-            src={picture}
-            alt="Juliana Barbosa de França Amaral"
-            width="1190"
-            height="1219"
-            className="w-full aspect-square object-cover"
-            priority
-          />
+        <aside className="w-72 bg-purple-900 text-white flex flex-col gap-8 py-8 pb-16 text-sm">
           <section className="flex flex-col px-8 gap-6">
             <h3 className="font-bold text-2xl uppercase">Contato</h3>
             <dl className="flex gap-3">
